@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.local
+uploads/
+backend/data/database.json
+backend/src/data/database.json
+coverage/
+*.log
+*.err
+__pycache__/
+*.pyc
+.claude/
